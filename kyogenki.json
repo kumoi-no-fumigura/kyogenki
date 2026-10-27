@@ -5,7 +5,12 @@
  "yomi": "きょうげんき",
  "category": "能・狂言",
  "kind": "kyogen",
- "description": null,
+ "description": {
+  "kind": "狂言集",
+  "era": "万治3年（1660）刊",
+  "author": "未詳",
+  "desc": "江戸時代に版行された狂言の台本集。"
+ },
  "editions": [
   {
    "pid": "1018104",
